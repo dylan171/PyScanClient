@@ -5,12 +5,12 @@ Created on
 '''
 from distutils.core import setup
 setup(name='PyScanClient',
-      version='0.9.0',
+      version='0.9.2',
       description='Python Scna Server Client Lib',
       author='Qiu Yongxiang',
       author_email='qiuyongxiang05@gmail.com',
-      url = 'http://github.com/pySC',
-      packages= ['ScanClient','Test','example'],
+      url = 'https://github.com/ksdj/PyScanClient.git',
+      packages= ['Scan','Test','example'],
       classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
